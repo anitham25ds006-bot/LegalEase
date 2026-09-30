@@ -1,0 +1,7 @@
+# Secrets - never upload the real API key
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
